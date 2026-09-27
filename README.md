@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Priyanshu Kumar Sharma 👋</H1>
+<h1 align="center">Hi there, I'm Priyanshu Kumar Sharma 👋</h1>
 <h3 align="center">Mathematics student building practical machine learning and AI applications 🚀</h3>
 
 <p align="center">
