@@ -8,9 +8,14 @@
   <a href="https://github.com/PriyanshuSharmapixel">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- Update the link below with your actual LinkedIn URL -->
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/priyanshukumarsharma/)">
+  <a href="https://www.linkedin.com/in/priyanshukumarsharma/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/priy_anshu5552/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://leetcode.com/u/gh0DkQX9Uh/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
 
